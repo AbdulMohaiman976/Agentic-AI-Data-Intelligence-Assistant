@@ -1,0 +1,29 @@
+# Core AI & LLM
+langchain-groq
+langgraph
+langchain-community
+
+# NLP & Translation
+transformers
+sentencepiece
+accelerate
+torch
+
+# Web Search Tool
+tavily-python
+
+# Data Handling
+pandas
+openpyxl
+sqlalchemy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# UI
+gradio
+
+# Utilities
+typing-extensions
